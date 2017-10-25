@@ -1,2 +1,2 @@
-# mitv-hosts
-Xiaomi MiTV 4 hosts
+# mi-hosts
+Xiaomi hosts
